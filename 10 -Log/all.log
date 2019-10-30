@@ -1,0 +1,5 @@
+2019-10-30 10:30:05,929-DEBUG--debug message
+2019-10-30 10:30:05,929-INFO--info message
+2019-10-30 10:30:05,929-WARNING--warning message
+2019-10-30 10:30:05,929-ERROR--error message
+2019-10-30 10:30:05,929-CRITICAL--critical message

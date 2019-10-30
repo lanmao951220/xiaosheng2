@@ -1,0 +1,30 @@
+DEBUG:root:this is a debug log
+INFO:root:this is a debug log
+WARNING:root:this is a warning log
+ERROR:root:this is a error log
+CRITICAL:root:this is a critical log
+DEBUG:root:this is a debug log
+INFO:root:this is a info log
+WARNING:root:this is a warning log
+ERROR:root:this is a error log
+CRITICAL:root:this is a crirical log
+2019-10-29 18:05:25,318====DEBUG++++++(message)s
+2019-10-29 18:05:25,319====INFO++++++(message)s
+2019-10-29 18:05:25,319====WARNING++++++(message)s
+2019-10-29 18:05:25,319====ERROR++++++(message)s
+2019-10-29 18:05:25,319====CRITICAL++++++(message)s
+2019-10-29 18:05:25,319====DEBUG++++++(message)s
+2019-10-29 18:05:25,319====INFO++++++(message)s
+2019-10-29 18:05:25,319====WARNING++++++(message)s
+2019-10-29 18:05:25,320====ERROR++++++(message)s
+2019-10-29 18:05:25,320====CRITICAL++++++(message)s
+2019-10-29 18:47:17,956====DEBUG++++++this is a debug log
+2019-10-29 18:47:17,956====INFO++++++this is a debug log
+2019-10-29 18:47:17,956====WARNING++++++this is a warning log
+2019-10-29 18:47:17,956====ERROR++++++this is a error log
+2019-10-29 18:47:17,956====CRITICAL++++++this is a critical log
+2019-10-29 18:47:17,956====DEBUG++++++this is a debug log
+2019-10-29 18:47:17,956====INFO++++++this is a info log
+2019-10-29 18:47:17,956====WARNING++++++this is a warning log
+2019-10-29 18:47:17,957====ERROR++++++this is a error log
+2019-10-29 18:47:17,957====CRITICAL++++++this is a crirical log
